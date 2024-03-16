@@ -28,7 +28,9 @@ Trilha Python:
 Trilha Data Science:
 
 ![python-data-science](https://unibb.alura.com.br/user/F6817941/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
+
 Trilha pentest
+
 ![pentest-explorando-vulnerabilidades](https://unibb.alura.com.br/user/F6817941/course/pentest-explorando-vulnerabilidades-aplicacoes-web/certificate)
 
 Trilha Redes:
