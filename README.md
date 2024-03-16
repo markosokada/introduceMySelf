@@ -36,6 +36,7 @@ Trilha pentest
 Trilha Redes:
 
 ![redes](https://unibb.alura.com.br/user/F6817941/course/redes-onboarding-rede-forma-pratica/certificate)
+
 Fiz alguns pequenos programas no decorrer do curso.
 
 Aprendi vários conceitos de programação que são bem utilizados sempre que necessito.
