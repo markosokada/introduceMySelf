@@ -29,7 +29,7 @@ Aprendi vários conceitos de programação que são bem utilizados sempre que ne
 
 Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS.
 
-## Projetos :rocket:
+## Projetos
 + Participei de uma excursão a comunidade quilombola pelo projeto Cunhatã++, onde pude passar um pouco do meu conhecimento sobre tecnologia as crianças da comunidade,lecionando e auxiliando em algumas ativiadesde com robótica.
 
 + Desenvolvedor da Ontologia-OntoBioAmazon na disciplina de Tópicos Integradores
@@ -40,7 +40,19 @@ Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS
   
 + Atualmente desenvovendo um sistema que utiliza autenticação facial.
 ## Tecnologias
-para consertar
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/css-3.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/html-5.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/java.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/linux.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/local-na-rede-internet.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/python.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/pentest.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/script-java.png)
+## Redes Sociais
+[![instagram](https://github.com/markosokada/introduceMySelf/blob/main/image/instagram.png)]("www.instagram.com/markosokada")
+
+
+
 
 
 
