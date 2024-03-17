@@ -40,6 +40,7 @@ Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS
   
 + Atualmente desenvovendo um sistema que utiliza autenticação facial.
 ## Tecnologias
+
 ![](https://github.com/markosokada/introduceMySelf/blob/main/image/css-3.png)
 ![](https://github.com/markosokada/introduceMySelf/blob/main/image/html-5.png)
 ![](https://github.com/markosokada/introduceMySelf/blob/main/image/java.png)
@@ -50,6 +51,7 @@ Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS
 ![](https://github.com/markosokada/introduceMySelf/blob/main/image/script-java.png)
 ## Redes Sociais
 [![instagram](https://github.com/markosokada/introduceMySelf/blob/main/image/instagram.png)]("www.instagram.com/markosokada")
+
 
 
 
