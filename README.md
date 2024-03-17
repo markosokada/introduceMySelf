@@ -29,7 +29,7 @@ Aprendi vários conceitos de programação que são bem utilizados sempre que ne
 
 Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS.
 
-## Projetos
+## Projetos :rocket:
 + Participei de uma excursão a comunidade quilombola pelo projeto Cunhatã++, onde pude passar um pouco do meu conhecimento sobre tecnologia as crianças da comunidade,lecionando e auxiliando em algumas ativiadesde com robótica.
 
 + Desenvolvedor da Ontologia-OntoBioAmazon na disciplina de Tópicos Integradores
@@ -37,9 +37,24 @@ Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS
 + Co-Autor do artigo OntoBioAmazon: an antology for a sustentable bioeconomy based on Social Innovation in the Amazon.
 
 + Integrante no projeto Furnas.
+  
++ Atualmente desenvovendo um sistema que utiliza autenticação facial.
 ## Tecnologias
-()
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/css-3(1).png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/html-5.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/java(1).png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/plataforma-linux.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/local-na-rede-internet(1).png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/python.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/pentest(1).png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/js.png)
 ## Redes Sociais
+[![instagram](https://github.com/markosokada/introduceMySelf/blob/main/image/instagram(1).png)](www.instagram.com/markosokada)
+
+![linkdin](https://github.com/markosokada/introduceMySelf/blob/main/image/linkedin.png)
+![Linux](https://img.shields.io/badge/-Linux-0052CC?style=flat-square&logo=linux)
+<a href="www.instagram.com/markosokada"><img src="C:\Users\marko\Documents\VScode\Markdown\image\instagram(1).png"></a>
+
 
 
 
