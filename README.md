@@ -40,7 +40,7 @@ Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS
   
 + Atualmente desenvovendo um sistema que utiliza autenticação facial.
 ## Tecnologias
-
+para consertar
 
 
 
