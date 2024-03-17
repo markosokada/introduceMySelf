@@ -40,9 +40,18 @@ Habilidades em HARD SKILLS a ser aprimorada, e com boa habilidade em SOFT SKILLS
   
 + Atualmente desenvovendo um sistema que utiliza autenticação facial.
 ## Tecnologias
-![](https://github.com/markosokada/introduceMySelf/blob/main/image/css-3.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/html-5.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/java.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/linux.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/local-na-rede-internet.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/logotipo-da-linguagem-python.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/pentest.png)![](https://github.com/markosokada/introduceMySelf/blob/main/image/script-java.png)
+
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/css-3.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/html-5.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/java.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/linux.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/local-na-rede-internet.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/python.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/pentest.png)
+![](https://github.com/markosokada/introduceMySelf/blob/main/image/script-java.png)
 ## Redes Sociais
-[![instagram](https://github.com/markosokada/introduceMySelf/blob/main/image/instagram.png)](www.instagram.com/markosokada)
+[![instagram](https://github.com/markosokada/introduceMySelf/blob/main/image/instagram.png)]("www.instagram.com/markosokada")
+
 
 
 
