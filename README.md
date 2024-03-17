@@ -7,35 +7,19 @@ e diversos cursos on-line,
 
 feitos em busca de melhoramento. Segue alguns dos Cursos Concluídos.
 
+[Trilha Linux:](https://unibb.alura.com.br/user/F6817941/course/certificacao-linux-lpi-essentials-command-line-basics/certificate)
 
-Trilha Linux:
+[Trilha Java:](https://unibb.alura.com.br/user/F6817941/course/java-pacotes-e-java-lang/certificate)
 
-![certificacao-linux:Básicos](https://unibb.alura.com.br/user/F6817941/course/certificacao-linux-lpi-essentials-command-line-basics/certificate)
+[Trilha javaScript:](https://unibb.alura.com.br/user/F6817941/course/javascript-web-paginas-dinamicas/certificate)
 
-Trilha Java:
+[Trilha Python:](https://unibb.alura.com.br/user/F6817941/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
 
-![java-pacotes-e-java-lang](https://unibb.alura.com.br/user/F6817941/course/java-pacotes-e-java-lang/certificate)
+[Trilha Data Science:](https://unibb.alura.com.br/user/F6817941/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
 
-Trilha javaScript:
+[Trilha pentest](https://unibb.alura.com.br/user/F6817941/course/pentest-explorando-vulnerabilidades-aplicacoes-web/certificate)
 
-![javascript-web-paginas-dinamicas](https://unibb.alura.com.br/user/F6817941/course/javascript-web-paginas-dinamicas/certificate)
-
-
-Trilha Python:
-
-![python-data-science](https://unibb.alura.com.br/user/F6817941/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
-
-Trilha Data Science:
-
-![python-data-science](https://unibb.alura.com.br/user/F6817941/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
-
-Trilha pentest
-
-![pentest-explorando-vulnerabilidades](https://unibb.alura.com.br/user/F6817941/course/pentest-explorando-vulnerabilidades-aplicacoes-web/certificate)
-
-Trilha Redes:
-
-![redes](https://unibb.alura.com.br/user/F6817941/course/redes-onboarding-rede-forma-pratica/certificate)
+[Trilha Redes](https://unibb.alura.com.br/user/F6817941/course/redes-onboarding-rede-forma-pratica/certificate)
 
 Fiz alguns pequenos programas no decorrer do curso.
 
